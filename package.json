@@ -1,7 +1,7 @@
 {
-  "name": "@DanProgramsIt/github-pkg-demo",
+  "name": "@danprogramsit/github-pkg-demo",
   "repository": {
-    "url" : "git://github.com/DanProgramsIt/github-pkg-demo.git"
+    "url": "git://github.com/DanProgramsIt/github-pkg-demo.git"
   },
   "version": "1.0.0",
   "description": "",
